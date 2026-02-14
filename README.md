@@ -38,7 +38,7 @@ Discover leading game publishers.
 - vdsales.csv → for data visualization
 
 ## Dashboard Preview
-<a href="KOMAL-YADAV-07/Video_game_sales-Dashboard/blob/main/Sales%20Dashboard.png">Dashboard Image</a>
+<a href="https://github.com/KOMAL-YADAV-07/Video_game_sales-Dashboard/blob/main/Sales%20Dashboard.png">Dashboard Image</a>
 
 ## Insights You Can Explore
 - Which genre generates the most global sales
