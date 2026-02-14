@@ -1,5 +1,5 @@
-#🎮 Video Game Sales Dashboard (Tableau)
-##📊 Project Overview
+🎮 Video Game Sales Dashboard (Tableau)
+📊 Project Overview
 This interactive Tableau dashboard analyzes global video game sales across genres, platforms, publishers, and years. It helps identify market trends, top-performing categories, and sales distribution patterns over time.
 The dashboard is designed for exploratory analysis using filters and time selection to understand how the gaming industry evolved.
 ________________________________________
@@ -25,12 +25,12 @@ o	Total Platforms
 o	Total Game Titles
 ________________________________________
 ##📁 Files in Repository
-•	Video_Game_Sales_Dashboard.twbx → Tableau packaged workbook
+•Sales_Dashboard.twbx → Tableau packaged workbook
 •	dashboard_image.png → Dashboard preview image
 •	README.md → Project documentation
 ________________________________________
-##📷 Dashboard Preview
-(Add your exported dashboard image here)
+📷 Dashboard Preview
+<a href https://github.com/KOMAL-YADAV-07/Video_game_sales-Dashboard/blob/main/Sales%20Dashboard.png> Dashboard Image</a>
 ________________________________________
 ##📌 Insights You Can Explore
 •	Which genre generates the most global sales
@@ -39,17 +39,16 @@ ________________________________________
 •	Market leaders among publishers
 •	Sales distribution across time periods
 ________________________________________
-##▶️ How to Use
+▶️ How to Use
 1.	Download the .twbx file.
 2.	Open using Tableau Public Desktop.
 3.	Use filters to explore trends interactively.
 ________________________________________
-##📚 Learning Purpose
+📚 Learning Purpose
 This project was created to practice:
 •	Tableau dashboard building
 •	Data storytelling
 •	Interactive filtering
-•	Visual analytics design
 ________________________________________
 ##👤 Author
 Komal
